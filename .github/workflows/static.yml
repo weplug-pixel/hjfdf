@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="icon" href="images/Fav/favicon-16x16.png" type="image/x-icon"> 
+    <link rel="icon" href="images/Fav/favicon-32x32.png" type="image/x-icon"> 
+    <link rel="icon" href="images/Fav/favicon.ico" type="image/x-icon"> 
+    <title>PETERESSIEN UD OM | Contact</title>
+    <link rel="stylesheet" href="styles.css">
+    
+</head>
+<body>
+    <header class="header">
+        <div class="logo">
+            <img src="images/image1.jpeg" alt="Company Logo" width="50">
+            <h1>PETERESSIEN UD OM</h1>
+        </div>
+        <nav>
+
+    </header>
+
+    <section class="hero">
+        <div class="hero-text">
+            <h2>PETERESSIEN Universal Distributors of Original Machineries</h2>
+            <p>General distributors and handlers of industrial equipment.</p>
+            
+        </div>
+    </section>
+
+    <section class="brands">
+        <h2>Our Trusted Brands</h2>
+        <div class="brand-logos">
+            <!-- Brand 1 -->
+            <div class="brand-card">
+                <img src="images/Quantumflow.png" alt="Quantumflow Logo" class="brand-logo">
+            </div>
+            <!-- Brand 2 -->
+            <div class="brand-card">
+                <img src="images/weg.png" alt="WEG Logo" class="brand-logo">
+            </div>
+    
+            <!-- Brand 3 -->
+            <div class="brand-card">
+                <img src="images/abb.png" alt="ABB Logo" class="brand-logo">
+            </div>
+             <!-- Brand 4-->
+            <div class="brand-card">
+                <img src="images/tin.gif" alt="TIN Logo" class="brand-logo">
+            </div>
+            <div class="brand-card">
+                <img src="images/Tasco.png" alt="TECHO Logo" class="brand-logo">
+            </div>
+        </div>
+        
+    </section>
+    <footer>
+        <div class="footer-content">
+
+            <div class="footer-location">
+                
+                <p>Grand floor Space #3 177c McCormack St. 
+                </p> 
+                <p>Toronto, ON M6M 1X8</p>
+                <p>+1 647 428 293</p>
+               
+                <p> sales@peteressienud.ca
+                </p>
+            </div>
+
+        </div>
+
+        <p>&copy; 2024 PETERESSIEN UD OM. All Rights Reserved.</p>
+    </footer>
+    <!-- JavaScript for changing background -->
+
+</body>
+</html>
